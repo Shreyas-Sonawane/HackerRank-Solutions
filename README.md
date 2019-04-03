@@ -9,6 +9,10 @@
 <p align="center">
 	HackerRank's new  problem format!
 </p>
+
+<p align="center">
+	Language used : java8
+</p>
 <p align="center">
 	If you are interested in helping or have a solution in a different language feel free to make a pull request.
 </p>
